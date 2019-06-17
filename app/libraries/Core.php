@@ -2,7 +2,7 @@
 
     class Core {
 
-        protected $currentController = 'Pages';
+        protected $currentController = 'AthleteBase';
         protected $currentMethod = 'index';
         protected $params = [];
 
